@@ -1,0 +1,13 @@
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.exe
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.deps.json
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.runtimeconfig.json
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.runtimeconfig.dev.json
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.dll
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\bin\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.pdb
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.csprojAssemblyReference.cache
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.AssemblyInfoInputs.cache
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.AssemblyInfo.cs
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.csproj.CoreCompileInputs.cache
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.dll
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.pdb
+D:\Not studing\Repositories\[CodeWars] Binary Additioin\[CodeWars] Binary Additioin\obj\Debug\netcoreapp3.1\[CodeWars] Binary Additioin.genruntimeconfig.cache
